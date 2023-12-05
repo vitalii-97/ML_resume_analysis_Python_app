@@ -4,7 +4,7 @@
 [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)   
 
 ## [Watch Tutorial for this project](https://youtu.be/hqu5EYMLCUw)
-<img src="https://github.com/Spidy20/Smart_Resume_Analyser_App/blob/master/yt_thumb.jpg">
+<img src="https://github.com/vitalii-97/ML_resume_analysis_Python_app/blob/main/analyzer.jpg">
 
 ## [Get the project Report, PPT, and Diagrams](https://github.com/vitalii-97/ML_resume_analysis_Python_app.git)
 ## Source
@@ -42,10 +42,10 @@
 ## Screenshots
 
 ## User side
-<img src="https://github.com/Spidy20/Smart_Resume_Analyser_App/blob/master/sc1.png">
+<img src="https://github.com/vitalii-97/ML_resume_analysis_Python_app/blob/main/sc1.png">
 
 ## Admin Side
-<img src="https://github.com/Spidy20/Smart_Resume_Analyser_App/blob/master/sc2.png">
+<img src="https://github.com/vitalii-97/ML_resume_analysis_Python_app/blob/main/sc2.png">
 
 
 ## Just follow☝️ me and Star⭐ my repository 
