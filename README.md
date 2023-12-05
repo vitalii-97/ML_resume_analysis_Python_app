@@ -4,7 +4,7 @@
 [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)   
 
 ## [Watch Tutorial for this project](https://youtu.be/hqu5EYMLCUw)
-<img src="https://github.com/vitalii-97/ML_resume_analysis_Python_app/blob/main/analyzer.jpg">
+<img src="https://github.com/vitalii-97/ML_resume_analysis_Python_app/blob/main/analyzer.png">
 
 ## [Get the project Report, PPT, and Diagrams](https://github.com/vitalii-97/ML_resume_analysis_Python_app.git)
 ## Source
